@@ -1,4 +1,4 @@
-# House_Sales_KingCount
+# House Sales at King Count
 
 A study case lab corresponding to Module 6 of IBM Data Science Specialization powered by SkillsNetwork. 
 
